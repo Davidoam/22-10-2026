@@ -22,6 +22,8 @@
     "@aws-amplify/backend": "latest",
     "@aws-amplify/backend-cli": "latest",
     "@types/react": "~19.1.10",
+    "aws-cdk-lib": "^2.274.0",
+    "constructs": "^10.8.1",
     "typescript": "~5.9.2"
   }
 }
